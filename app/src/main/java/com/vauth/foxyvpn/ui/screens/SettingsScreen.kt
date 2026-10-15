@@ -54,7 +54,7 @@ import androidx.compose.ui.unit.dp
 import com.vauth.foxyvpn.BuildConfig
 import com.vauth.foxyvpn.data.SettingsStore
 
-private const val GITHUB_URL = "https://github.com/vauth/foxyvpn"
+private const val GITHUB_URL = "https://github.com/Glimpser-zz/G-FoxyVPN"
 
 @Composable
 fun SettingsScreen(
