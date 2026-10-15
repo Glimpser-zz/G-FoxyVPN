@@ -44,7 +44,7 @@ android {
     ndkVersion = "26.1.10909125"
 
     defaultConfig {
-        applicationId = "com.vauth.foxyvpn"
+        applicationId = "com.glimpser.gfoxyvpn"
         minSdk = 26
         targetSdk = 35
         versionCode = 42
