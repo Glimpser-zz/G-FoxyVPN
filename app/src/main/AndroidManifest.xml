@@ -65,7 +65,7 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-                <action android:name="com.vauth.foxyvpn.action.TOGGLE_VPN" />
+                <action android:name="com.glimpser.gfoxyvpn.action.TOGGLE_VPN" />
             </intent-filter>
             <meta-data
                 android:name="android.appwidget.provider"
